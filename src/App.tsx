@@ -1,12 +1,10 @@
-
-
-import './App.css'
-import Hero from './components/Demo/Hero'
-
+import Navbar from './components/Demo/Navbar'
+import Header from './components/Demo/Header'
 function App() {
   return (
     <>
-        <Hero/>
+    <Navbar/>
+    <Header/>  
     </>
   )
 }

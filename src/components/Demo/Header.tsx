@@ -8,7 +8,7 @@ export default function Header(){
     <div className="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">We didn't reinvent the wheel</h2>
-            <p className="mb-4">Hi, I’m [Your Name], a Frontend Developer with a passion for building responsive, user-friendly web applications. I specialize in HTML, CSS, JavaScript, and frameworks like React and Vue.js. I aim to create clean, efficient code while ensuring a smooth and engaging user experience. Always eager to learn and collaborate, I’m excited to take on new challenges and contribute to impactful projects.
+            <p className="mb-4">Hi, I’m Muhammad Naufal Hasyim, a Frontend Developer with a passion for building responsive, user-friendly web applications. I specialize in HTML, CSS, JavaScript, and frameworks like React and Vue.js. I aim to create clean, efficient code while ensuring a smooth and engaging user experience. Always eager to learn and collaborate, I’m excited to take on new challenges and contribute to impactful projects.
                 Feel free to check out my work, and let’s connect!</p>
         </div>
         <div className="grid grid-cols-2 gap-4 mt-8">
